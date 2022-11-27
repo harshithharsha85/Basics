@@ -1,0 +1,6 @@
+Git Commands
+===============
+init
+config
+push 
+pull
